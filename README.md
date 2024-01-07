@@ -18,7 +18,7 @@
 2. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/7ec1f76d-5718-432e-9640-921e30a703aa)
 3. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/a4bc885a-6742-41e2-bf8a-2d5e3de87aa2)
 --------------------------------------------> HALAMAN PRODI <-------------------------------------------------------
-1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/23b79c7d-c48f-40ae-a07a-39910832eb69)
+1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/e697ef5b-8337-465e-bf7c-d62a9c17867d)
 2. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/11f6dfc9-a14c-4bfa-9ab7-9c0ea151f2c9)
 -------------------------------------------> HALAMAN MAHASISWA <----------------------------------------------------
 1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/cc8936dc-172a-4e0c-a1a1-d973dac7b557)
