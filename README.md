@@ -50,8 +50,7 @@
     
 Yang telah membantu memberikan Pembelajaran,pengalaman,dan banyak pengetahuan kepada saya selama Bootcamp ini.
 Saya berharap dengan adanya pengalaman Bootcamp ini memberikan saya semangat untuk terus belajar untuk informatika
-memberikan saya wawasasan yang berharga untuk saya dan kedepannya.
-## --------------------------------------------------> TERIMAKASIH <-------------------------------------------------
+memberikan saya wawasasan yang berharga bagi saya dan kedepannya🙏.
 
 
 
@@ -63,5 +62,5 @@ memberikan saya wawasasan yang berharga untuk saya dan kedepannya.
 
 
 
-## Code of Conduct
+
 
