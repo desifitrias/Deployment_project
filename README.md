@@ -7,60 +7,42 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Tentang Aplikasi Siakad
+    Ini adalah Aplikasi Sistem Informasi Akademik yang memuat Manajemen Dosen,Matakuliah, Prodi, dan Data Mahasiswa.
+   1.  Disini saya bermaksud untuk merelasikan Manajemen Dosen dengan Mata Kuliah ->Dimana Sebelum "admin" mengisi berbagai macam Mata Kuliah, dia Harus mengisi Manajemen Dosen Terlebih Dahulu. Karena di Halamanan MataKuliah (ketika kita ingin menambahkan mata kuliah baru) di haruskan memilih dosen yang bersangkutan.
+   2.  Kedua Saya bermaksud merelasikan Manajemen Program Studi dengan Mahasiswa ->->Dimana Sebelum "admin" mengisi berbagai Nama Mahasiswa, dia Harus mengisi Manajemen Prodi Terlebih Dahulu. Karena di Halamanan Mahasiswa (ketika kita ingin menambahkan mahasiswa) di haruskan memilih prodi yang bersangkutan dengan mahasiswa tsb.
+   3.  Karena keterbatasan waktu, Aplikasi Ini tentu belum sepenuhnya selesai. Disini saya berniat untuk menambahkan kolom search pada manajemen mahasiswa dan mungkin pada dosen karena jika data sudah banyak tidak mungkin kita cari satu satu dengan men-scroll nya.
+## Berikut saya lampirkan Hasil Dari program
+---------------------------------------> HALAMAN LOGIN & REGISTER <-------------------------------------------------
+1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/132678d2-c322-40df-9d8b-50d798db36bd)
+2. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/7ec1f76d-5718-432e-9640-921e30a703aa)
+3. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/a4bc885a-6742-41e2-bf8a-2d5e3de87aa2)
+--------------------------------------------> HALAMAN PRODI <-------------------------------------------------------
+1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/23b79c7d-c48f-40ae-a07a-39910832eb69)
+2. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/11f6dfc9-a14c-4bfa-9ab7-9c0ea151f2c9)
+-------------------------------------------> HALAMAN MAHASISWA <----------------------------------------------------
+1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/cc8936dc-172a-4e0c-a1a1-d973dac7b557)
+2. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/1194103a-d861-41f5-bc53-72a7d8c545f6)
+-------------------------------------------> HALAMAN MATAKULIAH <---------------------------------------------------
+1. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/cda6b406-603c-49bc-8cde-75108d3f91af)
+2. ![image](https://github.com/desifitrias/Deployment_project/assets/150249930/e52bdc3b-6408-497b-87f7-11dc16193298)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Special Big Thanks✨
+    Saya DESI FITRIA Mengucapkan Banyak Terimakasih Kepada Dosen, Pembimbing, Dan Orang-orang yang telah memberikan
+Pembelajaran,pengalaman,dan banyak pengetahuan kepada saya selama Bootcamp ini.
+    Saya berharap dengan adanya pengalaman Bootcamp ini memberikan saya semangat untuk terus belajar untuk informatika
+memberikan saya wawasasan yang berharga untuk saya dan kedepannya.
+--------------------------------------------------> TERIMAKASIH <---------------------------------------------------
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
